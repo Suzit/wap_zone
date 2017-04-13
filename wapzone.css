@@ -1,0 +1,572 @@
+BODY {
+    background: rgba(0, 0, 0, 0) url("images/gp-bg2.png") repeat scroll 0 0;
+    background-color: #ffffff;
+    cursor: default;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+}
+TD, TH {
+    color: #000;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 11px;
+}
+
+
+
+
+
+#lnkStatic {
+    display: block;
+    margin-top: 5px;
+}
+TABLE{
+     
+    width: 100%;
+}
+.ContentPrev {
+    vertical-align: top;
+}
+.ContentPrev img {
+    height: 100px;
+    width: 100px;
+}
+.tableDesg {
+    border: 2px solid #0673b3;
+    border-radius: 5px;
+    box-shadow: 6px 5px 5px #888888;
+    display: table;
+    height: 170px;
+    margin-top: 5px;
+    vertical-align: top;
+    width: 110px;
+}
+.tableDesg tbody {
+    width: 100%;
+}
+
+.headerImg img {
+    width: 100%;
+    
+  
+}
+
+.ImageButton {
+}
+.popupImg {
+    display: block;
+}
+.TextBox {
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+}
+.PagingText {
+    color: #c60;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+}
+.labelText {
+    color: white;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+}
+.labelCategory {
+    color: #0673b3;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 10px;
+    font-weight: bold;
+}
+.ErrorMsgText {
+    color: Red;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+}
+.DownloadText {
+    color: #66ff66;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+}
+.GridText {
+    color: #66ff66;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+}
+.LinkSubFooterBlue {
+    color: DeepSkyBlue;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+.LinkSubFooterBlue:visited {
+    color: DeepSkyBlue;
+}
+.LinkSubFooterBlue:hover {
+    color: #ffffff;
+}
+.popupImg img {
+    width: 100%;
+}
+.linkRed {
+    color: Red;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+.linkRed:visited {
+    color: Red;
+}
+.linkRed:hover {
+    color: #75b020;
+}
+.link {
+    color: #0673b3;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+.link:visited {
+    color: #0673b3;
+}
+.link:hover {
+    color: #000;
+}
+.link img {
+    width: 100px;
+}
+.linkCat {
+    color: #0673b3;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+.linkCat:visited {
+    color: #0673b3;
+}
+.linkCat:hover {
+    color: #000;
+}
+.linkSubFooter {
+    color: #ff9900;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+.linkSubFooter:visited {
+    color: #ff9900;
+}
+.linkSubFooter:hover {
+    color: #6fc508;
+}
+.ribon {
+    background-image: url("../Pictures/New5.gif");
+    color: #000000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+}
+.ribonFooter {
+    color: #000;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 10px;
+}
+.ribonGame {
+   // background: #4395cf none repeat scroll 0 0;
+     background:#FFFFFF none repeat scroll 0 0;
+     border: 3px solid #0066FF ;
+    color: #0066FF;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+.ribonMusic {
+    //background: #fdd66d none repeat scroll 0 0;
+    background:#FFFFFF none repeat scroll 0 0;
+    border: 3px solid #0066FF;
+    color: #0066FF;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+}
+.ribonVideo {
+    //background: #f3703c none repeat scroll 0 0;
+    background:#FFFFFF none repeat scroll 0 0;
+    border: 3px solid #0066FF;
+    color: #0066FF;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+}
+.ribonFullVideo {
+    //background: #f27f72 none repeat scroll 0 0;
+    background:#FFFFFF none repeat scroll 0 0;
+    border: 3px solid #0066FF;
+    color: #0066FF;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+}
+.ribonPicture {
+    //background: #afcd37 none repeat scroll 0 0;
+    background:#FFFFFF none repeat scroll 0 0;
+    border: 3px solid #0066FF;
+    color: #0066FF;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+}
+.ribonPicDay {
+     background:#FFFFFF none repeat scroll 0 0;
+     border: 3px solid #0066FF ;
+    //background: #8cc96c none repeat scroll 0 0;
+    color: #0066FF ;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: Left;
+ 
+}
+.ribonOtherlink {
+    background: #d0cccb none repeat scroll 0 0;
+    color: #000000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+}
+.TitleText {
+    color: #000000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+.TitleText2 {
+    color: #000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 10px;
+    font-weight: bold;
+}
+.FlatButton {
+    background-color: AliceBlue;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+}
+.FlatButtonSignin {
+    background-color: buttonface;
+    border-color: ghostwhite gray gray ghostwhite;
+    border-style: solid;
+    border-width: 1px;
+}
+.BlackBorder {
+    border: 1px solid #666666;
+}
+.ListHeader {
+    background-color: buttonface;
+    border-color: white gray gray white;
+    border-style: solid;
+    border-width: 1px;
+}
+.DataGrid {
+    border: 1px solid darkgray;
+}
+.DataGridAlternatingItem {
+    background-color: whitesmoke;
+}
+.DataGridPagerStyle {
+    background-color: Lightgrey;
+    height: 30px;
+}
+.DataGridHeader {
+    background-color: dimgray;
+    color: White;
+    font-weight: bold;
+}
+.DataGridSelectedItem {
+    background-color: lightgrey;
+    font-weight: bold;
+}
+.DataGridPagerCurrentPageNumberStyle {
+    font-weight: bolder;
+}
+#lstPickoftheDay td {
+    background-color:white;
+    vertical-align: top;
+    width: 50%;
+}
+.ImageClass {
+    background-color: buttonface;
+    border-color: white gray gray white;
+    border-style: solid;
+    border-width: 2px;
+}
+.SimpleListHeader {
+    font-size: 10pt;
+    font-weight: bold;
+}
+.logoCom {
+    color: white;
+    font-family: Arial;
+    font-size: 8pt;
+}
+.searchTitle {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: bolder;
+}
+.flatTextBox {
+    border-color: black;
+    border-style: solid;
+    border-width: 1pt;
+    font-family: Arial;
+    font-size: 8pt;
+    margin: 0;
+}
+.flatTextBox2 {
+    border: 1pt solid #fbb892;
+    font-family: Arial;
+    font-size: 8pt;
+    margin: 0;
+}
+.titleBarText {
+    color: #296488;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.titleBarText2 {
+    color: #296488;
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.tourTitle {
+    color: #ffffff;
+    font-family: Tahoma;
+    font-size: 8pt;
+    font-style: italic;
+    font-weight: bolder;
+}
+.signinTitle {
+    color: #000000;
+    font-family: Arial;
+    font-size: 7pt;
+    font-weight: bolder;
+}
+.LoginTitle {
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 7pt;
+    font-weight: bolder;
+}
+.LoginBox {
+    color: #ffffff;
+    font-size: 9pt;
+}
+.TopicTitle {
+    color: Black;
+    font-family: Arial,Tahoma,Verdana;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.WhiteText {
+    color: white;
+    font-size: 11px;
+}
+.ErrorMsg {
+    color: Red;
+    font-weight: bold;
+}
+.OfferText {
+    color: #ffffff;
+}
+.StepNumber {
+    font-size: 10pt;
+    font-weight: bold;
+}
+.TutorTopicTitle {
+    font-size: 9pt;
+    font-weight: bold;
+}
+.CorrectModelTestAnswer {
+    border-color: Black;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+}
+.Sunken {
+    border-color: gray whitesmoke whitesmoke gray;
+    border-style: solid;
+    border-width: 1px;
+}
+.label1 {
+    background-color: #e60018;
+    color: White;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.label2 {
+    color: #e60018;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.leftcaption {
+    background-color: #e60018;
+    color: White;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 14pt;
+    font-weight: bold;
+}
+.rightcaption {
+    color: Navy;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 14pt;
+    font-weight: bold;
+}
+.Heading {
+    color: Navy;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.CaptionLink {
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 11pt;
+    font-weight: bold;
+}
+.NewsHeadline {
+    color: Navy;
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.MemberTextBox {
+    border-color: White;
+    border-style: solid;
+    border-width: 1px;
+}
+.TopBody {
+    background-color: #ffcaca;
+    border-bottom: 1px solid #ff3300;
+    color: #800000;
+}
+.MiddleBody {
+    border: 1px solid #3971ac;
+    border-collapse: collapse;
+}
+.RedHead {
+    background-color: #ffcaca;
+    border-bottom: 1px solid #ff3300;
+    color: #800000;
+}
+.RedLine {
+    border: 1px solid #ff3300;
+    border-collapse: collapse;
+}
+#popupAd {
+    display: none;
+    height: auto;
+    width: auto;
+}
+.fancybox-wrap22 .popupImg {
+    color: #000;
+    display: block;
+    font-size: 12px;
+    height: 72px;
+    text-decoration: none;
+}
+.fancybox-wrap22 {
+    top: 75% !important;
+}
+.fancybox-wrap22 .fancybox-inner {
+    height: 72px !important;
+    overflow: auto;
+}
+.fancybox-wrap22 .fancybox-inner #scroller {
+    text-align: justify;
+}
+#text-container {
+    border: 2px solid #333333;
+    margin: -44px auto auto;
+    width: auto;
+}
+#text-container ul {
+    list-style: outside none none;
+    width: 100%;
+}
+#text-container ul li {
+    background: #2d2d2d none repeat scroll 0 0;
+    list-style: outside none none;
+    text-align: left;
+}
+#text-container ul li span {
+    color: #8fdf04;
+}
+#text-container ul li a {
+    color: #f3703c;
+}
+.close-div {
+    display: block;
+    float: right;
+    position: relative;
+    z-index: 999;
+}
+.csAudioStream {
+    border-bottom: 2px solid;
+    color: black;
+    font-size: 12px;
+    padding: 3px;
+}
+.ribon {
+    background-color: #afcd37;
+    background-repeat: repeat-x;
+    color: #000000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    font-weight: bold;
+    width: 100%;
+}
+.scoreTable {
+    width: 90%;
+}
+.scoreTable TD, TH {
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 11px;
+    font-weight: 700;
+}
+.scoreTable .header {
+    background: #f2f2f2 none repeat scroll 0 0;
+}
+.scoreTable td {
+    border: 1px solid #000;
+}
+.linkSubFooter {
+    color: #000;
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 11px;
+    text-decoration: none;
+}
+#music{
+background-color:white;
+}
+#Games {
+background-color:white;
+}
+#video{
+background-color:white;
+}
+#full_video{
+background-color:white;
+}
+#pictures{
+background-color:white;
+}
